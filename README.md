@@ -5,5 +5,7 @@ the purpose was to investigate the probability of winning a soccer match. It is 
 the game winner.
 
 Author: Israel Booth and Tuyen Huynh
+
 Date: November 2022
+
 Language: Python
